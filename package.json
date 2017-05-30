@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/mdos/acl/issues"
   },
-  "homepage": "https://github.com/mdos/acl#readme"
+  "homepage": "https://github.com/mdos/acl#readme",
+  "dependencies": {
+    "jsonschema-acl": "^0.1.3"
+  }
 }
